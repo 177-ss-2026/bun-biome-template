@@ -4,6 +4,7 @@
   "editor.autoClosingComments": "always",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
+    "addMissingImports": "explicit",
     "source.fixAll.biome": "always",
     "source.organizeImports.biome": "always"
   },
