@@ -72,7 +72,8 @@
         }
       },
       "correctness": {
-        "noInnerDeclarations": "error"
+        "noInnerDeclarations": "error",
+        "noUndeclaredVariables": "error"
       }
     }
   },
